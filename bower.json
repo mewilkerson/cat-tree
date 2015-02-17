@@ -1,0 +1,21 @@
+{
+  "name": "Assignment 11",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Wilkerson <mattisonwilkerson@gmail.com>"
+  ],
+  "description": "Turn a tree of json data into an html tree",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
